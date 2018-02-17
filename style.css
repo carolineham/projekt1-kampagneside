@@ -4,6 +4,21 @@ body {
   margin: 0;
 }
 
+/*H1, h2, h3 and p*/
+
+h1 {
+  text-align: center;
+  padding-top: 300px;
+  font-size: 60px;
+  margin: 0;
+}
+h2 {
+  text-align: center;
+  margin: 0;
+}
+h3 {}
+p {}
+
 /*Header*/
 header {
 background-color: #fff; /*Temporary color*/
@@ -15,6 +30,7 @@ padding: 0px;
 top: 0px;
 left: 0px;
 z-index: 2;
+text-align: center;
 }
 
 /*Section class*/
