@@ -1,0 +1,69 @@
+/*Body reset margin and padding*/
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/*Header*/
+header {
+background-color: #fff; /*Temporary color*/
+position: fixed;
+height: 52px;
+width: 100%;
+margin: 0px auto;
+padding: 0px;
+top: 0px;
+left: 0px;
+z-index: 2;
+}
+
+/*Section class*/
+.pages {
+  width: 100%;
+  height: 768px;
+  padding: 0px;
+  margin: 0px auto;
+  display: block;
+}
+
+/*--Pages on one-page--*/
+
+/*Media queries - width of background images for each page*/
+@media only screen and (min-width: 1366px) {
+    #page1 {
+        background-image: url("img/virtuallandscape716x1349.png");
+        width: 1349px;
+        height: 716px;
+        margin-top: 52px;
+    }
+}
+
+
+@media only screen and (min-width: 1920px) {
+    #page1 {
+        background-image: url("img/virtuallandscape716x1903.png");
+        width: 1903px;
+        height: 716px;
+        margin-top: 52px;
+    }
+}
+
+#page2 {
+    background-color: #F3FFFF; /*Temporary color*/
+}
+
+#page3 {
+    background-color: #D3EAFF; /*Temporary color*/
+}
+
+#page4 {
+    background-color: #F3FFFF; /*Temporary color*/
+}
+
+footer {
+  background-color: #72DE97; /*Temporary color*/
+  width: 100%;
+  height: 90px;
+  display: block;
+
+}
