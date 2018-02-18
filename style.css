@@ -119,13 +119,12 @@ text-align: center;
   height: 275px;
   margin-top: 170px;
   background-color: #fff; /*Temporary color*/
-  margin-right: 100px;
 }
 
 footer {
   background-color: #080808; /*Temporary color*/
   width: 100%;
-  height: 90px;
+  height: 100px;
   display: block;
 
 }
