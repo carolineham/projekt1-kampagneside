@@ -77,7 +77,7 @@ text-align: center;
 /*Infoboxes class*/
 .infobox {
   display: block;
-  border-radius: 7px;
+  border-radius: 3px;
   position: relative;
   margin: 0 auto;
   padding: 30px;
