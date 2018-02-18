@@ -9,15 +9,20 @@ body {
 h1 {
   text-align: center;
   padding-top: 300px;
-  font-size: 60px;
+  font-size: 70px;
   margin: 0;
+  font-family: 'Londrina Solid';
+  color: #000;
 }
 h2 {
   text-align: center;
   margin: 0;
+  font-family: 'Cabin';
 }
 h3 {}
-p {}
+p {
+    font-family: 'Cabin';
+}
 
 /*Header*/
 header {
@@ -72,7 +77,7 @@ text-align: center;
 /*Infoboxes class*/
 .infobox {
   display: block;
-  border-radius: 10px;
+  border-radius: 7px;
   position: relative;
   margin: 0 auto;
   padding: 20px;
@@ -82,14 +87,14 @@ text-align: center;
   width: 300px;
   height: 150px;
   margin-top: 80px;
-  background-color: #fff;
+  background-color: #fff; /*Temporary color*/
 }
 
 #page2box2 {
-width: 500px;
-height: 250px;
-margin-top: 120px;
-  background-color: #fff;
+  width: 500px;
+  height: 250px;
+  margin-top: 120px;
+  background-color: #fff; /*Temporary color*/
 }
 
 
@@ -106,11 +111,19 @@ margin-top: 120px;
 }
 
 #page4 {
-    background-color: #F3FFFF; /*Temporary color*/
+    background-color: #000; /*Temporary color*/
+}
+
+#page4box1 {
+  width: 600px;
+  height: 350px;
+  margin-top: 170px;
+  background-color: #fff; /*Temporary color*/
+  margin-right: 100px;
 }
 
 footer {
-  background-color: #72DE97; /*Temporary color*/
+  background-color: lightgrey; /*Temporary color*/
   width: 100%;
   height: 90px;
   display: block;
