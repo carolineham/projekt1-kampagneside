@@ -80,7 +80,8 @@ text-align: center;
   border-radius: 7px;
   position: relative;
   margin: 0 auto;
-  padding: 20px;
+  padding: 30px;
+  opacity: 0.9;
 }
 
 #page2box1 {
@@ -104,10 +105,9 @@ text-align: center;
 
 #page3box1 {
   width: 540px;
-  height: 400px;
+  height: 350px;
   margin-top: 170px;
   background-color: #fff;
-
 }
 
 #page4 {
