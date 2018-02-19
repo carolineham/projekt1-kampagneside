@@ -85,8 +85,8 @@ text-align: center;
 }
 
 #page2box1 {
-  width: 500px;
-  min-height: 150px;
+  width: 400px;
+  height: 180px;
   margin-top: 80px;
   background-color: #fff; /*Temporary color*/
 }
