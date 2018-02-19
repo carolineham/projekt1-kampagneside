@@ -121,9 +121,17 @@ text-align: center;
 }
 
 footer {
-  background-color: #080808; /*Temporary color*/
-  width: 100%;
-  height: 100px;
-  display: block;
+    background-color: #080808;
+    /*Temporary color*/
+    width: 100%;
+    padding: 30px;
+    display: block;
+    color: #fff;
+    text-align: center;
+}
 
+footer P {
+    color: #fff;
+    margin: auto;
+    display: block;
 }
