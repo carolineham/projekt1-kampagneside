@@ -25,7 +25,7 @@ p {
 
 /*Header*/
 header {
-background-color: #fff; /*Temporary color*/
+background-color: #fff;
 position: fixed;
 height: 60px;
 width: 100%;
@@ -87,14 +87,14 @@ text-align: center;
   width: 400px;
   height: 180px;
   margin-top: 80px;
-  background-color: #fff; /*Temporary color*/
+  background-color: #fff;
 }
 
 #page2box2 {
   width: 500px;
   min-height: 150px;
   margin-top: 120px;
-  background-color: #fff; /*Temporary color*/
+  background-color: #fff;
 }
 
 
@@ -117,14 +117,13 @@ text-align: center;
   width: 500px;
   height: 275px;
   margin-top: 170px;
-  background-color: #fff; /*Temporary color*/
+  background-color: #fff;
 }
 
 footer {
     background-color: #080808;
-    /*Temporary color*/
     width: 100%;
-    padding: 30px;
+    padding: 0px;
     display: block;
     color: #fff;
     text-align: center;
