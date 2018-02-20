@@ -114,8 +114,8 @@ text-align: center;
 }
 
 #page4box1 {
-  width: 500px;
-  height: 275px;
+  width: 530px;
+  height: 250px;
   margin-top: 170px;
   background-color: #fff;
 }
@@ -123,19 +123,33 @@ text-align: center;
 footer {
     background-color: #080808;
     width: 100%;
-    padding: 0px;
     display: block;
     color: #fff;
     text-align: center;
 }
 
-footer P {
+footer p {
     color: #fff;
     margin: auto;
     display: block;
+    padding: 7px;
 }
 
 
-.footlogo {
-    position: relative;
-    top: -2%;
+#facebook {
+  height: 53px;
+  position: relative;
+  margin: auto;
+}
+
+#linkedin {
+  height: 50px;
+  position: relative;
+  margin: auto;
+}
+
+#instagram {
+   height: 50px;
+   position: relative;
+   margin: auto;
+}
