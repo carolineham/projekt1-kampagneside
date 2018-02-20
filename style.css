@@ -50,7 +50,7 @@ text-align: center;
 /*--Pages on one-page--*/
 
 /*Media queries for page 1*/
-@media only screen and (min-width: 1366px) {
+@media only screen and (min-width: 1300px) {
     #page1 {
         background-image: url("img/virtuallandscape716x1349.png");
         width: 1349px;
