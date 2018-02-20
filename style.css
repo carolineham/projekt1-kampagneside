@@ -39,6 +39,10 @@ z-index: 2;
 text-align: center;
 }
 
+#logo {
+  height: 55px;
+}
+
 /*Section class*/
 .pages {
   width: 100%;
