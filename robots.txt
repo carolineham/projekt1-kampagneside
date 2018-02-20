@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://carolineham.github.io/projekt1-kampagneside/sitemap.xml
