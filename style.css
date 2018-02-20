@@ -121,7 +121,7 @@ text-align: center;
 }
 
 footer {
-    background-color: #080808;
+    background-color: #fff;
     width: 100%;
     display: block;
     color: #fff;
@@ -129,7 +129,7 @@ footer {
 }
 
 footer p {
-    color: #fff;
+    color: #080808;
     margin: auto;
     display: block;
     padding: 7px;
