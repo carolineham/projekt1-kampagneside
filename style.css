@@ -12,15 +12,17 @@ h1 {
   font-size: 70px;
   margin: 0;
   font-family: 'Londrina Solid';
-  color: #000;
+  color: #080808;
 }
 h2 {
   text-align: center;
   margin: 0;
   font-family: 'Cabin';
+  color: #080808;
 }
 p {
     font-family: 'Cabin';
+    color: #080808;
 }
 
 /*Header*/
